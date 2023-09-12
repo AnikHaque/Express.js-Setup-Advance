@@ -1,8 +1,6 @@
 const express = require('express');
 const router = require('./src/Routes/api');
-
 const app = new express();
-
 
 //app security middleware import
 const rateLimit  = require('express-rate-limit')
