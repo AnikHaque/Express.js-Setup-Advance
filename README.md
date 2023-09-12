@@ -1,5 +1,4 @@
 please download the project and run from your System .
-
 this url will look like Exmple:-
 
 http://localhost:5500/api/v1/blogController/heading
